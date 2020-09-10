@@ -1,3 +1,8 @@
+updated the following repository https://github.com/a1h2med/Anubis-IDE to include: 
+A fast executed for python code: in this feature the editor user will inter a code for a single function that would be automatically wrapped inside a program that has a main function that will call the the function  
+The user would be asked to also to provide a list of parameters to be passed from the main to the called function
+
+
 # Anubis IDE
 It's an **open source** IDE code Created by **Graduation Project** Team at Faculty of **Engineering** **Ain-Shams** Univeristy .  
 
